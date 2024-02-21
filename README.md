@@ -1,3 +1,4 @@
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
 <h1 align="center">Hi 👋, I'm Kinley Nidup</h1>
 <h3 align="center">A passionate fullstack developer from the tiny himalayan kingdom of Bhutan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
