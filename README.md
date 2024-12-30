@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **laravel, php, react, jquery**
+- 💬 Ask me about **DJANGO, PYTHON, .NET, C#, LARAVEL, PHP, REACT, INERTIA JS, JQUERY**
 
 - 📫 How to reach me **nidup.kinley@gmail.com**
 
